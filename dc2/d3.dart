@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   List<Musica> musicas = [
     Musica('Shape of You', 'Ed Sheeran', 'Divide', 233),
